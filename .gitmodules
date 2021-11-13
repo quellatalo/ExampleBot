@@ -1,0 +1,6 @@
+[submodule "TheEyes"]
+	path = TheEyes
+	url = git@github.com:quellatalo/TheEyes.git
+[submodule "TheHands"]
+	path = TheHands
+	url = git@github.com:quellatalo/TheHands.git
