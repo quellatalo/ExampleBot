@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleBot", "ExampleBot\ExampleBot.csproj", "{27433A2E-2E67-45AA-B625-A30D1F4064BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHands", "TheHands\TheHands.csproj", "{33BE1662-3592-46BA-961D-322B5153C4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEyes", "TheEyes\TheEyes.csproj", "{44734A60-82D1-4FE9-93DB-A6483BC69412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27433A2E-2E67-45AA-B625-A30D1F4064BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27433A2E-2E67-45AA-B625-A30D1F4064BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27433A2E-2E67-45AA-B625-A30D1F4064BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27433A2E-2E67-45AA-B625-A30D1F4064BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BE1662-3592-46BA-961D-322B5153C4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BE1662-3592-46BA-961D-322B5153C4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BE1662-3592-46BA-961D-322B5153C4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BE1662-3592-46BA-961D-322B5153C4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44734A60-82D1-4FE9-93DB-A6483BC69412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44734A60-82D1-4FE9-93DB-A6483BC69412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44734A60-82D1-4FE9-93DB-A6483BC69412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44734A60-82D1-4FE9-93DB-A6483BC69412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87F947A-00B9-4C16-9A3D-8C5E2C439904}
+	EndGlobalSection
+EndGlobal
